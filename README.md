@@ -1,5 +1,7 @@
 # `stylelint-config-styled-components-processor`
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/styled-components/stylelint-config-styled-components-processor.svg)](https://greenkeeper.io/)
+
 The shareable stylelint config for [stylelint-processor-styled-components](https://github.com/styled-components/stylelint-processor-styled-components)
 
 ## why
